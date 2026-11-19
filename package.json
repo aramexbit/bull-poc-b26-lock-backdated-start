@@ -1,0 +1,1 @@
+{"dependencies":{"viem":"^2.57.20"},"description":"PoC for Bull.family bug bounty report B-26: SDK lock() checks the vesting schedule only relatively — malicious server backdates start and the lock is fully vested at creation (local Anvil only, no real funds).","name":"bull-poc-b26-lock-backdated-start","private":true,"type":"module","version":"1.0.0"}
